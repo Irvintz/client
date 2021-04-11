@@ -1,9 +1,24 @@
-.search{
-    display: flex;
+.book{
     align-items: center;
     justify-content: space-between;
+    padding-bottom: 15px;
+  }
+
+  .book .holder{
+   background-color: #f0f0f0;
+   width: 250px;
+   padding: 20px;
   }
   
   .search-button{
     margin-left: 1rem
+  }  
+
+  .save-button{
+    margin-left: 1rem
+    
+    
   }
+
+
+
